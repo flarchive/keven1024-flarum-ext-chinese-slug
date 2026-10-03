@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of keven1024/flarum-ext-chinese-slug.** Not for installation: use [Packagist](https://packagist.org/packages/keven1024/flarum-ext-chinese-slug) or the [upstream repository](https://github.com/keven1024/flarum-ext-chinese-slug).
 
-**0** versions archived · Latest: [`1.0`](https://github.com/flarchive/keven1024-flarum-ext-chinese-slug/tree/archive/v1.0) · License: `AGPL-3.0` · Flarum: `^1.0`
+**1** versions archived · Latest: [`1.0`](https://github.com/flarchive/keven1024-flarum-ext-chinese-slug/tree/archive/v1.0) · License: `AGPL-3.0` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2022-05-27 | `^1.0` | [Browse](https://github.com/flarchive/keven1024-flarum-ext-chinese-slug/tree/archive/v1.0) |
 
 Catalog entry: [packages/keven1024-flarum-ext-chinese-slug.json](https://github.com/flarchive/archive-index/blob/main/packages/keven1024-flarum-ext-chinese-slug.json)
 
